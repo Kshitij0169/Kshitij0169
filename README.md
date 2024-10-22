@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on becoming a full-stack software dev<br>Front-end web developer and UI/UX Designer<br>Tech stack: Java, Python, Javascript, MySQL, MongoDB, React, Figma
+Currently working on becoming a full-stack software dev<br>Front-end web developer and UI/UX Designer<br>Tech stack: Java, Python, Javascript, SQL, MongoDB, React, Figma, Next.js, 
 
 
 ## 🌐 Socials:
