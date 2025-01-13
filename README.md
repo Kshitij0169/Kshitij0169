@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on becoming a full-stack software dev<br>Front-end web developer and UI/UX Designer<br>Tech stack: Java, Python, Javascript, SQL, MongoDB, React, Figma, Next.js
+Graduate in Information Systems at Northeastern University with experience in product development, project management, and software engineering. I’ve led cross-functional teams on large-scale projects, optimized processes for efficiency, and collaborated with stakeholders to deliver user-focused solutions. With a strong technical foundation in React, Python, JavaScript, and Next.js, combined with a passion for leveraging data to drive decisions, I thrive in dynamic, fast-paced environments. I’m eager to bring my skills to a role where I can contribute to impactful products while continuing to grow and learn.
 
 
 ## 🌐 Socials:
